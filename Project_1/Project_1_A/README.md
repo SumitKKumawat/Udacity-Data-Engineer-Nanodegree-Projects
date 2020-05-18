@@ -2,7 +2,7 @@ Follow the below steps to run the project:
 
 1. Open Terminal
 2. Run command "Python create_tables.py" to create tables in database.
-3. Now run command "python etl.py" to process data son files.
+3. Now run command "python etl.py" to process data song files.
 
 For more info, please open {Run CMD1.png, Run CMD2.png, Run CMD3.png}
 
